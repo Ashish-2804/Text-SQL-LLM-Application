@@ -1,6 +1,6 @@
 ## TEXT TO SQL LLM APPLICATION ##
 
-Its a LLM application that interact with the SQL database and retrieve information throught prompts
+Its a LLM application that interact with the SQL database and retrieve information through prompts
 
 The design architecture include Sqllite database, GEMINI Generative AI, Streamlit
 
